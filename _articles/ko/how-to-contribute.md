@@ -86,7 +86,7 @@ related:
 * 프로젝트 문서 작성 및 개선하기
 * 프로젝트 사용법을 보여주는 예제 폴더 선별하기
 * 프로젝트의 뉴스레터 발행을 시작하거나 메일링 리스트의 하이라이트를 관리하기
-* [PyPA의 기여처럼](https://github.com/pypa/python-packaging-user-guide/issues/194), 프로젝트 튜토리얼 작성하기
+* [PyPA의 기여처럼](https://packaging.python.org/), 프로젝트 튜토리얼 작성하기
 * 프로젝트 문서 번역 작성하기
 
 <aside markdown="1" class="pquote">
@@ -209,7 +209,6 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
